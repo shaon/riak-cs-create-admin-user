@@ -1,0 +1,5 @@
+default["riak_cs_create_admin_user"]["email"] = "admin@admin.com"
+default["riak_cs_create_admin_user"]["name"]  = "admin"
+default["riak_cs_create_admin_user"]["scheme"] = "http"
+default["riak_cs_create_admin_user"]["verify_mode"] = "peer"
+default["riak_cs_create_admin_user"]["ca_file"] = "/etc/riak-cs/cert.pem"

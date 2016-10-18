@@ -1,0 +1,36 @@
+{
+  "name": "riak-cs-create-admin-user",
+  "description": "Creates and configures an administrator for Riak CS.",
+  "long_description": "",
+  "maintainer": "Hector Castro",
+  "maintainer_email": "hectcastro@gmail.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": ">= 0.0.0",
+    "centos": ">= 0.0.0"
+  },
+  "dependencies": {
+    "riak": ">= 0.0.0",
+    "riak-cs": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "riak-cs-create-admin-user": "Configures an administrator for Riak CS"
+  },
+  "version": "0.4.0",
+  "source_url": "",
+  "issues_url": ""
+}
